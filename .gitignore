@@ -1,0 +1,5 @@
+# PDF 문서 
+*.pdf
+
+# ipynb
+*.ipynb
